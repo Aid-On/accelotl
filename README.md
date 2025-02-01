@@ -1,6 +1,7 @@
 # accelotl
 
-<div align="left"><img width="400px" src="https://github.com/user-attachments/assets/79eb178f-617e-4b7a-a262-1cf37cffdf2a"></div>
+<div align="left"><img width="400px" src="https://github.com/user-attachments/assets/f1c9f3eb-d402-441a-9e0f-a3315068b0f1"></div>
+
 
 ## What is Accelotl?
 
